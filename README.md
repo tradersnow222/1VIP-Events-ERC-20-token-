@@ -1,4 +1,4 @@
-#### ***1VIP is NOT an official token of 1inch Network. It is only an experimental project as part of my educational journey into web3 development._
+#### ***1VIP is NOT an official token of 1inch Network. It is only an experimental project as part of my web3 development learning!
 
 
 # 1VIP - Token Contract
