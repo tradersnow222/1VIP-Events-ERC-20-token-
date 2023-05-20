@@ -1,19 +1,19 @@
 #### *** This is NOT an official token of 1inch Network. 
-It is only an experimental project as part of my web3 development learning!
+*It is only an experimental project as part of my web3 development learning!
 
 
-# 1VIP - Token Contract
+# 1VIP 
 
-This is a README summary for an experimental `1inch 1-VIPToken` contract, an ERC20 token with special features, created to give 1INCH token stakers VIP access to events and parties.
+An experimental `1inch 1-VIPToken`, an ERC20 token with special features, created to give 1INCH token stakers VIP access to events and parties.
 
 ## Features
 
-- Used OpenZeppelin's ERC20 and Ownable contracts for a solid and secure foundation.
-- Designed to airdrop tokens to specific addresses based on their staked 1INCH token amounts (i.e. <1000 st1INCH).
-- Transfers between addresses are disabled to eliminate spoofing, allowing only minting and burning of the token.
-- The contract owner has control over the airdrop status, enabling or disabling at the event team's discretion. 
+- Used OpenZeppelin's ERC20 and Ownable contracts for a solid and secure foundation
+- Designed to airdrop tokens to specific addresses based on their staked 1INCH token amounts (i.e. <1000 st1INCH)
+- Transfers between addresses are disabled to eliminate spoofing, allowing only minting and burning of the toke
+- The contract owner has control over the airdrop status, enabling or disabling at the event team's discretion
 
-## Main Functions
+## Functions
 
 ### Constructor
 
